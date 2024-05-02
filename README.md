@@ -120,4 +120,4 @@ Access the application at http://127.0.0.1:5000/ in your web browser.
 ## Contributors
 
 - Frontend Development: **[Dhruv Pandey](https://github.com/itsdhruvrpandey01)**
-- Backend Development:**[Laukik Pawar](https://github.com/Laukik-Pawar)**
+- Backend Development: **[Laukik Pawar](https://github.com/Laukik-Pawar)**
