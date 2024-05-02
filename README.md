@@ -1,4 +1,4 @@
-# youtube-comment-sentiments
+# Youtube-Comment-Sentiments
 ## Introduction
 This project is a YouTube comment sentiments tool that takes a YouTube video URL as input, fetches comments using the YouTube Data API, analyzes the sentiment of the comments, and displays the results categorized as positive, negative, neutral, or undefined. The sentiment analysis is performed using both a dataset and the VADER lexicon.
 
