@@ -101,3 +101,7 @@ Access the application at http://127.0.0.1:5000/ in your web browser.
 
 *Fig 5.8: Pie Chart showing the analysis of comments by category.*
 
+## Contributors
+
+- Frontend Development: **[Dhruv Pandey](https://github.com/itsdhruvrpandey01)**
+- Backend Development:**[Laukik Pawar](https://github.com/Laukik-Pawar)**
