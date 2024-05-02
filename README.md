@@ -25,23 +25,26 @@ To run the project locally, follow these steps:
 1. **Download Twitter sentiment dataset from web or any sentiment dataset and rename it as:**
    ```bas
    sentiment140.csv 
-
-2. **Clone the Repository:**
+2. **Create your Youtube API KEY:**
+   follow below video if you dont know how to create it. 
+   ``` bash
+   https://youtu.be/LLAZUTbc97I?feature=shared
+3. **Clone the Repository:**
    ```bash
    git clone https://github.com/itsdhruvrpandey01/youtube-comment-sentiments/
    ```
 
-3. **Navigate to the Project Directory:**
+4. **Navigate to the Project Directory:**
    ```bash
    cd youtube-comment-sentiments
    ```
 
-4. **Install Dependencies:**
+5. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-5. **Run the Application:**
+6. **Run the Application:**
    ```bash
    python app.py
    ```
