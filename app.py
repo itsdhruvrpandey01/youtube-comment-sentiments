@@ -10,7 +10,7 @@ from langdetect import detect
 app = Flask(__name__)
 
 # Set your YouTube API key here
-API_KEY = "AIzaSyBTUVdnMyHMrcm9a6a9AtwNi7CT_duqFMk"
+API_KEY = "Your_api_key"
 
 # Download NLTK resources
 nltk.download('vader_lexicon')
