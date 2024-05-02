@@ -19,8 +19,36 @@ This project is a YouTube comment sentiments tool that takes a YouTube video URL
 - NLTK library (for language detection and sentiment analysis)
 - CanvasJS (for chart visualization)
 
+## Installation
+
+To run the project locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/itsdhruvrpandey01/youtube-comment-sentiments/
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd youtube-comment-sentiments
+   ```
+
+3. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the Application:**
+   ```bash
+   python app.py
+   ```
+
+Access the application at http://127.0.0.1:5000/ in your web browser.
+
 ## Usage
-- Run the Flask application: ` python app.py `
+- Run the Flask application:
+  ```bash
+  python app.py
 - Open a web browser and go to http://localhost:5000.
 - Enter a valid YouTube video URL in the input field and submit.
 - View the sentiment analysis results displayed on the webpage.
