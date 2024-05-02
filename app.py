@@ -37,7 +37,7 @@ def sentiment_analyzer():
     video_url = request.args.get('video_url')
     try:
         sentiment_result, comment_data = perform_sentiment_analysis(video_url)
-        return render_template("index_1.html", sentiment_result=sentiment_result, 
+        return render_template("home.html", sentiment_result=sentiment_result, 
                                positive=comment_data["positive"], negative=comment_data["negative"],
                                neutral=comment_data["neutral"], unidentified=comment_data["unidentified"],
                                comments=comment_data["comments_with_sentiment"])
