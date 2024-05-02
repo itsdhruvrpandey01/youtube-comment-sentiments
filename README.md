@@ -116,6 +116,7 @@ Access the application at http://127.0.0.1:5000/ in your web browser.
   <img src="https://github.com/itsdhruvrpandey01/youtube-comment-sentiments/assets/130044341/57dcc20e-0219-4836-86d9-116aec5d5217" alt="Pie Chart">
   <p>Pie Chart showing the analysis of comments by category.</p>
 </details>
+
 ## Contributors
 
 - Frontend Development: **[Dhruv Pandey](https://github.com/itsdhruvrpandey01)**
