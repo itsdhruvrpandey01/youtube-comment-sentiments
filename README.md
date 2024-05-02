@@ -22,23 +22,26 @@ This project is a YouTube comment sentiments tool that takes a YouTube video URL
 ## Installation
 
 To run the project locally, follow these steps:
+1. **Download Twitter sentiment dataset from web or any sentiment dataset and rename it as:**
+   ```bas
+   sentiment140.csv 
 
-1. **Clone the Repository:**
+2. **Clone the Repository:**
    ```bash
    git clone https://github.com/itsdhruvrpandey01/youtube-comment-sentiments/
    ```
 
-2. **Navigate to the Project Directory:**
+3. **Navigate to the Project Directory:**
    ```bash
    cd youtube-comment-sentiments
    ```
 
-3. **Install Dependencies:**
+4. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the Application:**
+5. **Run the Application:**
    ```bash
    python app.py
    ```
